@@ -1,7 +1,5 @@
-# O que você indicaria a alguém que quer aprender Vue.js?
-
-&nbsp;
-#### Esta convesa aconteceu em um grupo de Whatsapp sobre *<a href="https://br.vuejs.org/index.html" title="Vue" target="_blank">Vue</a>*.
+# O que você indicaria a alguém que quer aprender <a href="https://br.vuejs.org/index.html" title="Vue.js" target="_blank">Vue.js</a>?
+### Esta convesa aconteceu em um grupo de Whatsapp sobre *Vue*.
 
 # 
 
@@ -119,7 +117,6 @@
 
 # 
 
-**E você, o que tem a indicar pra quem quer aprender <a href="https://vuejs.org/" title="Vue.js" target="_blank">Vue.js</a>?**
-
+###**E você, o que tem a indicar pra quem quer aprender <a href="https://vuejs.org/" title="Vue.js" target="_blank">Vue.js</a>?**
 
 \#vue \#vuejs \#vue.js \#webdev
