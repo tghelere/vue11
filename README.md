@@ -117,6 +117,6 @@
 
 # 
 
-###**E você, o que tem a indicar pra quem quer aprender <a href="https://vuejs.org/" title="Vue.js" target="_blank">Vue.js</a>?**
+### **E você, o que tem a indicar pra quem quer aprender <a href="https://vuejs.org/" title="Vue.js" target="_blank">Vue.js</a>?**
 
 \#vue \#vuejs \#vue.js \#webdev
